@@ -10,7 +10,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building the application'
-                sh "yarn run build"
+                sh "npm run build"
             }
         }
     }
