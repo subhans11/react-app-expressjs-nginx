@@ -43,13 +43,13 @@ export default function App() {
 }
 
 function Home() {
-  return <h2>Home (of React App)</h2>;
+  return <h2>Home (of React - App)</h2>;
 }
 
 function About() {
-  return <h2>About (of React App)</h2>;
+  return <h2>About (of React - App)</h2>;
 }
 
 function Users() {
-  return <h2>Users (of React App)</h2>;
+  return <h2>Users (of React - App)</h2>;
 }
